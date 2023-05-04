@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KafkaReceiver/KafkaReceiver.iml" filepath="$PROJECT_DIR$/KafkaReceiver/KafkaReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaSender/KafkaSender.iml" filepath="$PROJECT_DIR$/KafkaSender/KafkaSender.iml" />
+    </modules>
+  </component>
+</project>
